@@ -30,8 +30,6 @@ Hotel booking platforms provide a comprehensive and convenient solution for trav
 
 **Dataset Key Attributes:**
 
- ****
-
 1. **index**: Unique identifier for each record.
 2. **hotel**: Name or type of the hotel (e.g., City Hotel, Resort Hotel).
 3. **is_canceled**: Indicates if the booking was canceled (1 for yes, 0 for no).
@@ -53,3 +51,22 @@ Hotel booking platforms provide a comprehensive and convenient solution for trav
 19. **previous_cancellations**: Number of previous bookings canceled by the guest.
 20. **previous_bookings_not_canceled**: Number of previous bookings not canceled by the guest.
 21. **reserved_room_type**: Code of the room type reserved.
+
+***Problem Areas***
+
+**Cancellation Patterns**
+
+Explore factors influencing cancellations (is_canceled).
+
+**Booking Trends**
+
+Analyze booking patterns over time.
+
+**Customer Demographics and Preferences**
+
+Understand customer behavior based on adults, children, babies, and meal.
+
+**Revenue and Special Requests**
+
+Assess revenue generation and customer needs.
+
